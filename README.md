@@ -13,3 +13,5 @@ Cada elemento extraído consta de:
 El código fue depurado y optimizado para solucionar los problemas existentes debido a la estructura de los datos, dado que estos varían en algunos productos, lo que provocó que durante las primeras ejecuciones del script no se obtuvieran todos los elementos.
 
 Se anexa un archivo log que muestra el proceso de extracción de datos, llamado vvb_output.txt.
+
+Finalmente, se anexan los resultados en formato JSON y CSV para que puedan utilizarse en análisis de datos.
